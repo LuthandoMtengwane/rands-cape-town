@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.js": "./static/js/main.f18b919d.chunk.js",
+    "main.js.map": "./static/js/main.f18b919d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.38f6388d.js",
+    "runtime-main.js.map": "./static/js/runtime-main.38f6388d.js.map",
+    "static/js/2.7e486e35.chunk.js": "./static/js/2.7e486e35.chunk.js",
+    "static/js/2.7e486e35.chunk.js.map": "./static/js/2.7e486e35.chunk.js.map",
+    "static/js/3.acc8c836.chunk.js": "./static/js/3.acc8c836.chunk.js",
+    "static/js/3.acc8c836.chunk.js.map": "./static/js/3.acc8c836.chunk.js.map",
+    "index.html": "./index.html",
+    "static/js/2.7e486e35.chunk.js.LICENSE.txt": "./static/js/2.7e486e35.chunk.js.LICENSE.txt",
+    "static/media/african.f2ae2d04.jpg": "./static/media/african.f2ae2d04.jpg",
+    "static/media/africandel.d7e3e279.jpg": "./static/media/africandel.d7e3e279.jpg",
+    "static/media/email.f047dd33.png": "./static/media/email.f047dd33.png",
+    "static/media/food-2.bca2cfe4.jpg": "./static/media/food-2.bca2cfe4.jpg",
+    "static/media/food-3.3707a929.jpg": "./static/media/food-3.3707a929.jpg",
+    "static/media/food-4.632e2198.jpg": "./static/media/food-4.632e2198.jpg",
+    "static/media/food-5.5e609478.jpg": "./static/media/food-5.5e609478.jpg",
+    "static/media/food-6.8035428d.jpg": "./static/media/food-6.8035428d.jpg",
+    "static/media/food-9.90513e0a.jpg": "./static/media/food-9.90513e0a.jpg",
+    "static/media/food-del.59ee7994.jpg": "./static/media/food-del.59ee7994.jpg",
+    "static/media/friday.47454df4.jpg": "./static/media/friday.47454df4.jpg",
+    "static/media/frypan.45757d8e.jpg": "./static/media/frypan.45757d8e.jpg",
+    "static/media/map.4291a16a.png": "./static/media/map.4291a16a.png",
+    "static/media/monday.31163bd9.jpg": "./static/media/monday.31163bd9.jpg",
+    "static/media/mshayi.17852bf4.jpg": "./static/media/mshayi.17852bf4.jpg",
+    "static/media/onmonday1.a4b4b137.jpg": "./static/media/onmonday1.a4b4b137.jpg",
+    "static/media/randscape.70c55013.jpg": "./static/media/randscape.70c55013.jpg",
+    "static/media/randssundae.5f0fef6c.jpg": "./static/media/randssundae.5f0fef6c.jpg",
+    "static/media/satiss.634e1ad5.jpg": "./static/media/satiss.634e1ad5.jpg",
+    "static/media/saturday.6d1f14f0.jpg": "./static/media/saturday.6d1f14f0.jpg",
+    "static/media/sunday.a4ab5640.jpg": "./static/media/sunday.a4ab5640.jpg",
+    "static/media/thursday.bee13890.jpg": "./static/media/thursday.bee13890.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38f6388d.js",
+    "static/js/2.7e486e35.chunk.js",
+    "static/js/main.f18b919d.chunk.js"
+  ]
+}
